@@ -25,4 +25,4 @@ To run this project locally:
 5. Type "index.html" under "When set, serve this file (server root relative) for every 404 (useful for single-page applications)"
 6. Start Live Server.
 
-<img src="https://media1.tenor.com/m/W7wWWPesIiwAAAAd/boxing-cat.gif" style="width: 50%;" />
+<img src="https://media1.tenor.com/m/f_UEIPGYImcAAAAd/cat-boxing.gif" style="width: 50%;" />
